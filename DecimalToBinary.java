@@ -1,7 +1,5 @@
 /* 
- * Homework 4, Problem 4
- * Chase Gillis 09/26/2023
- * Decimal To Binary Computer
+ * Chase Gillis
  * Prompts the user to enter a decimal integer and displays
  * its corresponding binary value as a string.
  */
